@@ -1,5 +1,4 @@
 import { HomeIcon } from "@heroicons/react/16/solid";
-import { useState } from "react";
 import { Link } from "react-router-dom";
 
 export function ErrorPage() {

@@ -1,5 +1,4 @@
-import { InputHTMLAttributes, useState } from 'react'
-import { ReactNode } from 'react';
+import { InputHTMLAttributes } from 'react'
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement>{} //-> passar todos os atributos de HTML para o input
 

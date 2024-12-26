@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { ReactNode } from 'react';
 
 interface SocialProps{
