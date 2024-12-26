@@ -7,7 +7,7 @@ export function ErrorPage() {
       <div className="text-center flex flex-col items-center justify-center">
         <div className="mb-8">
           <img
-            src="src\pages\err\404-ilustration.svg" // Substitua pelo URL da imagem ou caminho local.
+            src="src\pages\err\404-ilustration.png" // Substitua pelo URL da imagem ou caminho local.
             alt="Error Illustration"
             className="w-72 h-72 mx-auto"
           />
